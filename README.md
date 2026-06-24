@@ -1,3 +1,4 @@
+![Logo](system/images/banners/wonderland.png)
 # 𝚃𝙷𝙰𝚆𝙳𝙰𝙱𝙰𝚂𝙴
 
 # README.md Markdown Cheatsheet
