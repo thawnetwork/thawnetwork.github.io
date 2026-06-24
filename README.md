@@ -62,7 +62,7 @@
 ## Basic Image
 
 ```md
-![Logo](images/logo.png)
+![Logo](system/images/banners/wonderland.png)
 ```
 
 ## Screenshot
